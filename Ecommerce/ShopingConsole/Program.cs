@@ -71,13 +71,14 @@ namespace ShopingConsole
 
         public override string ToString()
         {
-            return "First Name : " + FirstName + "   Last Name : " + LastName + " Birth Date : " + BirthDate + " Location Area : " + Location;
+            return "First Name :" + FirstName + " Last Name :" + LastName + " Birth Date :" + BirthDate + " Location Area :" + Location;
         }
 
         ~Person()
         {
             Console.WriteLine("in destructor");
         }
+    }
 
         public class Customer : Person
         {
@@ -100,7 +101,7 @@ namespace ShopingConsole
 
             public override string ToString()
             {
-                return base.ToString() + " Customer Id: " + CustomerId + " Contact Number : " + ContactNumber + " Email : " + Email;
+                return base.ToString() + " Customer Id:" + CustomerId + " Contact Number :" + ContactNumber + " Email :" + Email;
             }
         }
 
@@ -151,8 +152,5 @@ namespace ShopingConsole
 				Console.WriteLine(c1.ToString());
 			}
 		}
-	}
-
-
 }
  
