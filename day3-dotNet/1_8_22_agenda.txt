@@ -1,0 +1,69 @@
+
+	Revision: 
+
+	how to implement crud operation in .net
+	Using Controller, Service, DAL modules
+	Building Solution using Class Libraries
+	IOC, SOC, Dependency Injection
+	POCO : Plain Old CLR object
+
+	Learn keywords in C#:
+	 param, ref, out, value, override, virtual ,sealed
+	 struct, base, this,
+	 using , namespaces, internal
+
+
+	Solution Architecture of .net application
+	.sln file
+	.csproj file
+	
+	Executable files in .net 
+	.dll------------------------Class Library
+	.exe------------------------Self executable (Console Application)
+
+
+	Todays Agenda:
+
+		ref, out , params, const, readonly, 
+		Operator overloading
+		Array  Single Dimensional array
+		       Multi Dimensional array
+		       Jagged Array
+		Indexer
+		Nullable type ?
+		Singleton
+		GUID Class
+
+		_______________________________________________________________________________________________
+		Interface,
+		Delegate
+		Event
+
+		Interface:
+			multiple interface inheritance
+			multileve interface inhertiance
+			Explicity interface inheritance
+
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
